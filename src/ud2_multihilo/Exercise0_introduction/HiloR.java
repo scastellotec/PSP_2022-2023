@@ -1,4 +1,4 @@
-package ud2_multihilo;
+package ud2_multihilo.Exercise0_introduction;
 
 public class HiloR implements Runnable{
 

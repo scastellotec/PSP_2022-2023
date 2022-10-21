@@ -1,4 +1,4 @@
-package ud2_multihilo;
+package ud2_multihilo.Exercise0_introduction;
 
 public class example0 {
     public static void main(String[] args) throws InterruptedException {
